@@ -1,0 +1,72 @@
+body
+{
+	width: 100vw;
+    height: 100vh;
+	background-color: #eeeeee;
+}
+navbar
+{
+    width: 100vw;
+    position: fixed;
+    z-index: 1;
+}
+riceframe
+{
+	display: flex;
+	justify-content: center;
+    flex-wrap: wrap;
+}
+cartbutton
+{
+	display: flex;
+	justify-content: center;
+    flex-wrap: wrap;
+}
+cartdisplay
+{
+    height: auto;
+}
+.font
+{
+	font-family: "Didot", monospace;
+    font-size: 30px;
+}
+.font-ticket
+{
+    font-family: "Lato", monospace;
+    font-size: 13px;
+}
+.font-sm
+{
+    font-size: 15px;
+}
+.btn-sq
+{
+	width: 43px;
+}
+.no-border-top
+{
+	border-top: hidden;
+}
+.paper
+{
+    background-image: url("https://i0.wp.com/texturefabrik.com/wp-content/uploads/2020/10/Texture-Fabrik-Kraft-Recycled-Paper-Textures-1_02.jpg?ssl=1");
+    background-size: 500px 500px;
+}
+.pastel-yellow
+{
+    background-color: rgb(209, 199, 181);
+}
+.transparent-white
+{
+    background-color: #ffffffb9;
+}
+.dark-gradient
+{
+    background: rgb(110,111,112);
+background: linear-gradient(0deg, rgba(110,111,112,0) 0%, rgba(41,43,44,1) 100%);
+}
+.nav-height
+{
+    height: 80px
+}
